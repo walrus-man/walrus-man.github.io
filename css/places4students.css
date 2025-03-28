@@ -404,6 +404,10 @@ footer {
   text-decoration: underline;
 }
 
+.phone-link {
+  width: 400px;
+}
+
 /* Media Queries */
 /* Mobile Portrait (up to 480px) */
 @media screen and (max-width: 480px) {
